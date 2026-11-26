@@ -1,0 +1,17 @@
+# Dữ liệu kho mật khẩu cá nhân
+PasswordSafe_Multi.db
+PasswordSafe_Multi.db-*
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.pytest_cache/
+.DS_Store
